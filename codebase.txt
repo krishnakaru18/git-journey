@@ -1,1 +1,1 @@
-hi new text
+hi new text was changed
